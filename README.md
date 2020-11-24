@@ -19,4 +19,8 @@ $ git clone https://github.com/Aagam-Jain-113/how-much-u-know-me.git
 ```
 $ npm install --save readline-sync
 ```
-
+3. Run the program
+```
+node index.js
+```
+Now you are Good to Go!
